@@ -1,9 +1,9 @@
 import React from 'react'
-
+import CustomButton from './CustomButton'
 const FilePicker = () => {
   return (
-    <div>
-      FilePicker
+    <div className="filepicker-container">
+      
     </div>
   )
 }
