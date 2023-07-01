@@ -6,4 +6,4 @@ This can be also used to upload logos, custom logos on a 3d tshirt
 
 Issue: I tried to impliment an AI API to generate random images , however the api crased after a certain time
 
-Link: [https://rishik-shirt-editor.netlify.app/](url) {Try opening in Incognito Mode}
+Link: https://rishik-shirt-editor.netlify.app/ {Try copy/pasting the link  in Incognito Mode}
